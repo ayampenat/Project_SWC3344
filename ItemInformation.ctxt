@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ItemInformation
+comment1.params=
+comment1.target=ItemInformation()
+comment10.params=
+comment10.target=java.lang.String\ getDatePurchase()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=itemId\ itemName\ itemPrice\ datePurchase
+comment2.target=ItemInformation(java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+comment3.params=itemId
+comment3.target=void\ setItemId(java.lang.String)
+comment4.params=itemName
+comment4.target=void\ setItemName(java.lang.String)
+comment5.params=itemPrice
+comment5.target=void\ setItemPrice(double)
+comment6.params=datePurchase
+comment6.target=void\ setDatePurchase(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getItemId()
+comment8.params=
+comment8.target=java.lang.String\ getItemName()
+comment9.params=
+comment9.target=double\ getItemPrice()
+numComments=12
